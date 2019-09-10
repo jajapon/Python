@@ -1,7 +1,7 @@
 '''
 Created on 9 sept. 2019
 
-@author: inercodevops
+@author: jajapon
 '''
 import requests as req
 

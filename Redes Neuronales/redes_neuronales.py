@@ -1,7 +1,7 @@
 '''
 Created on 9 ago. 2019
 
-@author: inercodevops
+@author: jajapon
 '''
 import numpy as np
 import pandas as pd
